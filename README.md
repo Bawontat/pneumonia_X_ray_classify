@@ -7,7 +7,7 @@
 * 6.) Domain Knowledge
 <br/>
 
->> 1.) Overview and Purpose ----------------------------------------------------------------------------------------------------------------------------------------
+>> 1.) Overview and Purpose --------------------------------------------------------------------------------------------------------------
 <br/>
 <img src="https://github.com/Bawontat/pneumonia_X_ray_classify/assets/39905133/ebf9cfa4-78b7-4dbb-b68c-1cfe74dc0e9b" alt="image" width="193" height="auto">
 <img src="https://github.com/Bawontat/pneumonia_X_ray_classify/assets/39905133/91cf7d90-2889-46a5-aea7-32c1ca2599be" alt="image" width="200" height="auto"> <br/>
@@ -17,7 +17,7 @@ I hope this model may be help doctor to screening the patient for split normal p
 <br/>
 <br/>
 
->> 2.) Brief Summary ---------------------------------------------------------------------------------------------------------------------------------------
+>> 2.) Brief Summary --------------------------------------------------------------------------------------------------------------------
 
 **Test dataset**       : 624 
                          (234 : Normal  , 390 : Pneumonia)
@@ -39,7 +39,7 @@ I hope this model may be help doctor to screening the patient for split normal p
 <br/>
 
 
->> 3.) Target and Matrix measurement ---------------------------------------------------------------------------------------------------
+>> 3.) Target and Matrix measurement ---------------------------------------------------------------------------------
 
 **" In real situations misdiagnosis of illness It is better than being misdiagnosed as not being sick. "**
 
@@ -56,7 +56,7 @@ So,  The target of confusion matrix is
 
 **so, Recall rate close to 100%**
 
->> 4.) Dataset ----------------------------------------------------------------------------------------------------------------------------
+>> 4.) Dataset -------------------------------------------------------------------------------------------------------
 
 [Download Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
@@ -68,7 +68,7 @@ So,  The target of confusion matrix is
 * The model doesn't sperate detection between bacteria and virus
 
 
->> 5.) Experiment and Result --------------------------------------------------------------------------------------------------------------
+>> 5.) Experiment and Result ---------------------------------------------------------------------------------------------
 
 **5.1) Rapid experiment for estimate feasibility of detection by compare 3 backbone**  <br/>
 *Use the same clasifier for 3 backbone
@@ -94,7 +94,7 @@ Resnet       V2-152 (Image size : 224x224 )   [Link](https://tfhub.dev/google/im
 **Result** <br/>
 <img src="https://github.com/Bawontat/pneumonia_X_ray_Classification/assets/39905133/421924ce-9416-4f6b-aa28-30ed5dff26a0" alt="image" width="500" height="auto"> <br/>
 
->> 6.) Domain Knowledge -----------------------------------------------------------------------------------------------------------------
+>> 6.) Domain Knowledge --------------------------------------------------------------------------------------------------
 <br/>
 I attach image file about pneumonia knowledge, method of reading X-ray etc.<br/>
 <br/>
