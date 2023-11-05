@@ -9,6 +9,9 @@
 
 >> 1.) Overview and Purpose ----------------------------------------------------------------------------------------------------------------------------------------
 <br/>
+<img src="https://github.com/Bawontat/pneumonia_X_ray_classify/assets/39905133/ebf9cfa4-78b7-4dbb-b68c-1cfe74dc0e9b" alt="image" width="193" height="auto">
+<img src="https://github.com/Bawontat/pneumonia_X_ray_classify/assets/39905133/91cf7d90-2889-46a5-aea7-32c1ca2599be" alt="image" width="200" height="auto"> <br/>
+
 I want to apply Image processing and machine learning for classify Pneumonia ans normal by X-ray film dataset.<br/>
 I hope this model may be help doctor to screening the patient for split normal people and people likely to sick
 <br/>
@@ -97,5 +100,4 @@ I attach image file about pneumonia knowledge, method of reading X-ray etc.<br/>
 <br/>
 
 [Gdrive link](https://drive.google.com/drive/folders/1ZU_tdZxlB5qRUDtN5ffxwHZM69GVwm-G?usp=sharing)
-
 
